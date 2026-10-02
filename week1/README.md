@@ -1,6 +1,6 @@
 # Week 01 - The Ai Landscape
 ## Learning Objectives
-- [1] Distinguish between AI, ML, DL, GenAI and agents
+- [ ] Distinguish between AI, ML, DL, GenAI and agents
 - [ ] Distinguish AI from ordinary automation
 - [ ] Explain the intuitive idea of LLM generation
 - [ ] Recognize AI limitations and the need for verification
